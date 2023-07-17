@@ -1,0 +1,17 @@
+#story {
+    display: none;
+  }
+  .move-right{
+    margin-left: 900px;
+  }
+.color{
+  background-color: rgb(237, 237, 237);
+}  
+.btn{
+  background-color: black;
+  color: white;
+}
+
+
+
+/* background-color: rgb(47, 43, 43); */
